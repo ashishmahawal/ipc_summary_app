@@ -1,0 +1,20 @@
+.result-container {
+  font-family:'Courier New', Courier, monospace;
+  font-size: large;
+  font-weight:600;
+}
+
+.search-container {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: larger;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#header {
+  margin-bottom: 10px;
+}
+#lang-container {
+  margin-top: 10px;
+  margin-bottom: 10px;;
+}

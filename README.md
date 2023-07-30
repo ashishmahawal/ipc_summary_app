@@ -1,0 +1,1 @@
+# Get Any Indian Penal Code explained in summarised way with example
